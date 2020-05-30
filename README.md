@@ -1,5 +1,5 @@
 # Kingsman-Product-Landing-Page
 Product landing page for Bespoke suits Kingsman/Huntsman
 
-## Codepen
+## Try it here
 #### https://codepen.io/soumyadeepta_das/full/rNVgRzY
